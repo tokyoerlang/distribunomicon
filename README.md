@@ -4,6 +4,9 @@
 - [avellable](avellable.github.io)
 - [halogenandtoast](http://www.halogenandtoast.com/)
 
+### Time
+2nd Oct 2016 17.00 - 19.00 JST
+
 ### Discussion Topics
 - Introductions
 - Purpose of the meetup
